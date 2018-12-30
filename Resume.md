@@ -1,71 +1,75 @@
-# 個人資料
+## Personal Info
 
- - 姓名：羅霖鋒
- 
- - 性別：男
- 
- - 年齡：18
- 
- - Github：[https://github.com/ToolElf](https://github.com/ToolElf)
- 
- - 現居城市：香港
- 
- ---
- 
-# 連絡方法
- 
- - 手機；51071500
-  
- - 電郵：henrylaw912@gmail.com
-  
- - Telegram：[@ToolElf](https://telegram.me/ToolElf)
-  
----
+- Name：Law Lam Fung | 羅霖鋒
 
-# 教育背景
+- Gender：male
+- Age：19
 
- - **香港中文大學校友會聯會陳震夏中學**(2012 - 2017)
-  
- 主修**化學、資訊及通訊科技、數學延伸單元一(微積分與統計)**
- 
- 微積分、統計學、數據庫系統、網絡系統、MySQL
+- Phone：51071500
+
+- E-mail：henrylaw912@gmail.com
+- Telegram：[@ToolElf](https://telegram.me/ToolElf)
+
+- github：https://github.com/ToolElf
 
 ---
 
-# 工作經驗
+## Education
 
-## 水果店(2014.07 ~ 2015.09)
+- **Hong Kong Community College (2017 - Now)**
 
- - 任職店務員
- - 同時負責收銀、倉務、打理店面
- - 在店主提供來貨價及市場狀況後作採購分析及參與貨品定價
- - 能同時在腦中記下大量交易,並作快速金額運算
- 
----
+  Associate In Information Technology
 
-# 技能清單
+- **Hong Kong University of Science and Technology (Conditional Offer)**
 
-- 熟悉各種日常辦工室軟件(Word,Excel,PowerPoint)
- 
-- 編輯各種多媒體（圖片，音訊，影像）
- 
-- 認識並能運用 HTML 進行前端代碼實現
- 
-- 數據庫相關語言: MySQL
- 
----
-
-# 興趣愛好
-
-- 極客精神：渴求技術知識，熱衷網絡技術
-
-- 閱讀習慣：由網絡小說、輕小說到近代文學，由心靈雞湯到哲學論文，無所不讀
-
-- 休閒娛樂：自小攝影，抱着記錄的心態凝住時光
- 
-- 體育運動：熱爱山藝、野外定向，閒暇之時喜歡和朋友走入山林
+  Bachelor of Engineering degree in Computer Engineering
 
 ---
 
-# 致謝
-感謝您花時間閱讀我的簡歷，期待能有機會與您共事。
+## Project Experience
+
+#### Telegram Chat Bot
+
+- Python-based chat bot with applying Telegram Bot API
+- Bot reply to preset command and short sentence
+-  able to dispatch string, image and location
+
+#### JUPAS Admission Score crawler
+
+- collecting JUPAS admission score from 2015 to 2018
+-  a Python-based, multi-thread crawler that output json file
+- apply library like json, scrapy
+
+#### PTT Post crawler
+
+- collecting image and context of each post to local host
+- a Python-based crawler
+- apply library like requests, beautifulSoup and regular expression
+
+#### ATM GUI design
+
+- user be able to login to withdrawal and transfer
+- designed by java awt and swing component
+- driven by event handling
+
+---
+
+## Technical Skill
+
+**Software:**	Microsoft Office, 
+
+​			Adobe Creative Suite (photoshop, lightroom, premiere, illustrator, audition),
+
+​			github
+
+**Database:** 	Oracle MySQL, MS SQL, json
+
+**Programming:** 	C, C++, C#, Java, Python, HTML
+
+**Systems:** 	linux ubuntu, Windows XP/7/10
+
+---
+
+## Languages
+
+Cantonese(Native)  |  English (Proficient)  |  Mandarin (Proficient)
